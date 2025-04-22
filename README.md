@@ -27,7 +27,7 @@ The main reason you will probably use this menu is to logout of the Guacamole se
 The user menu should look like the below:
 
 
-<img src="./resources/guac-user-menu.png" width="80%" height="35%"/>
+<img src="./resources/guac-user-menu.png" width="40%" height="40%"/>
 
 
 ### Pitfalls
