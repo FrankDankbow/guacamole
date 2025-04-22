@@ -1,6 +1,6 @@
 # Accessing the CEROC Guacamole Server
 
-## If you are reading this, that means that you are accessing an activity of some sort that is hosted on the CEROC Cyber Range. 
+## If you are reading this, that means that you are accessing an activity of some sort that is hosted on the CEROC Cyber Range. Please read this guide fully before you begin. (It is short, I promise)
 
 ### Where do I go?
 
@@ -23,6 +23,8 @@ On MacOS, you can use the key combination ```control+option+shift```
 To close the menu, just press the same key combination used to open it.
 
 The main reason you will probably use this menu is to logout of the Guacamole session by clicking the drop down in the top right of this menu (click the user name).
+
+More documentation here: [Guacamole User Docs](https://guacamole.apache.org/doc/gug/using-guacamole.html)
 
 The user menu should look like the below:
 
