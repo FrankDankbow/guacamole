@@ -4,10 +4,10 @@
 
 ### Where do I go?
 
-Go to this link: [CEROC Guacamole](https://portal.ceroc.tntech.edu) and login using the credentials that were provided to you by your activity leader / lab instructor.
+Go to this link: [CEROC Guacamole](https://stonehunt.tntech.edu/guacamole/#) and login using the credentials that were provided to you by your activity leader / lab instructor.
 
 
-If you have been given access to a single virtual machine (most common), you will be dropped directly into the Debian environment that should look like this:
+If you have been given access to a single virtual machine (most common), you should have two connections, one regular RDP connection (like below) and one SSH connection:
 
 ![](/resources/guac-desktop.png)
 
@@ -33,6 +33,8 @@ The user menu should look like the below:
 
 
 ### Pitfalls
+
+#### If you see get a black screen only and it says disconnected, please connect to the SSH session, run ```sudo loginctl terminate-user user``` and then try the RDP session again. 
 
 If you hit your host machine's browser refresh button a bunch of times, it will treat this as multiple connections and end up locking you out. In this case, let your lab instructor know.
 
