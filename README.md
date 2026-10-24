@@ -4,7 +4,7 @@
 
 ### Where do I go?
 
-Go to this link: [CEROC Guacamole](https://stonehunt.tntech.edu/guacamole/#) and login using the credentials that were provided to you by your activity leader / lab instructor.
+Go to this link: [CEROC Guacamole](https://outreach.ceroc.tntech.edu/) and login using the credentials that were provided to you by your activity leader / lab instructor.
 
 
 If you have been given access to a single virtual machine (most common), you should have two connections, one regular RDP connection (like below) and one SSH connection:
